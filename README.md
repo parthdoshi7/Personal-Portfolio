@@ -1,9 +1,7 @@
 # CODSOFT_Intern_Portfolio
 Welcome to my Software Engineer Portfolio, a project completed as part of my internship with CODSOFT.
 
-Sanket's Portfolio [Live Demo here](https://sanket-santoki.github.io/CODSOFT_Intern_Portfolio/)
-
-Github Profile [link](https://github.com/sanket-santoki/)
+Github Profile [link](https://github.com/parthdoshi7)
 
 ![app](assets/image.png) 
 
@@ -17,7 +15,7 @@ Interactive Elements: Incorporates JavaScript for engaging user interactions.
 Project Showcase: Explore my coding projects with detailed descriptions.
 
 # Task Details
-This project is a result of my internship with CODSOFT (Level-1|Task-2). It reflects my commitment to continuous learning and hands-on application of web development skills.
+This project is a result of my internship with CODSOFT (Level-1|Task-1). It reflects my commitment to continuous learning and hands-on application of web development skills.
 
 # Technologies Used:
 HTML
@@ -26,7 +24,7 @@ Bootstrap
 JavaScript
 
 # Credits:
-Developed by Sanket Santoki
+Developed by Parth Doshi
 Internship at CODSOFT
 
 Feel free to reach out for any questions or feedback. Thank you for visiting! 🚀
